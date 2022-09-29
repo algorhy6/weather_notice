@@ -4,8 +4,8 @@
 "template_id":"Lg-fbxtOf4PvPfelM2ZRRAhnJ-rwX9fDVOAwqRw74SU",
 "user":["oAcvp6YyrL707LUU0AZD2q8sLvDA"],
 "weather_key":"5074befaa3b24e77a53c6acbfafa9c47",
-"birthday1":{"name":"王先生", "生日":"2002-12-25"},
-"birthday2":{"name":"王女士", "生日":"2002-12-25"},
+"birthday1":"name":"王先生","生日":"2002-12-25"},
+"birthday2":{"name":"王女士","生日":"2002-12-25"},
 "love_date":"2022-06-26",
 "note_ch:"",
 "note_en":""
